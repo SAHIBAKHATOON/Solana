@@ -67,7 +67,7 @@ left: 13%;
  }
  .second_section p{
    margin-top: 20px;
-   font-size: 18px;
+   font-size: 16px;
  }
  .second_line{
    border-left: 1px solid grey;
@@ -109,7 +109,7 @@ left: 51%;
  .third_section button{
    border: none;
    height: 50px;
-   width: 150px;
+   width: 130px;
    /* margin-left: 30px; */
    border-radius: 10px;
    font-weight: 800;
