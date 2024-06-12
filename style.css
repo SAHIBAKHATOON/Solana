@@ -62,11 +62,12 @@ left: 13%;
  }
  .second_section{
    position: absolute;
-   left: 23%;
+   left: 21%;
    top: 13%;
  }
  .second_section p{
    margin-top: 20px;
+   font-size: 18px;
  }
  .second_line{
    border-left: 1px solid grey;
