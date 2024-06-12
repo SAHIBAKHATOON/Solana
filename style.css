@@ -62,7 +62,7 @@ left: 13%;
  }
  .second_section{
    position: absolute;
-   left: 13% !important;
+   left: 14% !important;
    top: 13%;
  }
  .second_section p{
@@ -74,11 +74,11 @@ left: 13%;
 height: 640px;
 margin-top: -202px;
 position: absolute;
-left: 49%;
+left: 51%;
  }
  .third_section{
    position: absolute;
-   left: 54%;
+   left: 56%;
    top: 22%;
  }
  .third_section input{
