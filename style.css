@@ -62,7 +62,7 @@ left: 13%;
  }
  .second_section{
    position: absolute;
-   left: 10%;
+   left: 13% !important;
    top: 13%;
  }
  .second_section p{
